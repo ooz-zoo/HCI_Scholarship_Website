@@ -1,0 +1,289 @@
+html {
+	font-size:62.5%;
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-1-LbJ {
+  width: 100%;
+  min-height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.frame-1-LbJ .scroll-down-for-more-info-vZW {
+  width: 10.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.55rem;
+  top: 32.7rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .bla-bla-bla-bla-wzQ {
+  width: 11.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 46.5rem;
+  top: 12rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.5666666667;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .rectangle-1-r5n {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-top: -20%;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-LbJ .self-employed-nVE {
+  width: 8.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 24.8%;
+  top: 16.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .item-30-4he {
+  width: 7.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 70%;
+  top: 7.6rem;
+  text-align: center;
+  font-size: 5.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .employed-aAC {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 49.8%;
+  top: 16.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .item-70-tAt {
+  width: 7.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 49%;
+  top: 7.6rem;
+  text-align: center;
+  font-size: 5.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .aided-students-graduating-Bvg {
+  width: 8.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 70.5%;
+  top: 16.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-LbJ .rectangle-2-624 {
+  width: 200rem;
+  min-height: 2000%;
+  position: absolute;
+  left: 0;
+  top: 38rem;
+  background-color: #ffffff;
+}
+.frame-1-LbJ .rectangle-5-cm6 {
+  width: 50rem;
+  height: 30rem;
+  position: absolute;
+  left: 130rem;
+  top: 50rem;
+  background-color: #d69a2d;
+}
+.frame-1-LbJ .testimonial3 {
+  width: 30rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 41.5%;
+  align-items: center;
+  justify-content: center;
+  top: 56%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.266666667;
+  color: #041e42;
+  font-family: Inter, 'Source Sans Pro';
+  z-index: 2;
+}
+.frame-1-LbJ .testimonial3 .testimonial3_1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4166666667;
+  color: #041e42;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .testimonial3 .testimonial3_2 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4166666667;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .rectangle-4-kJt {
+  width: 50rem;
+  height: 30rem;
+  position: absolute;
+  left: 70rem;
+  top: 50rem;
+  background-color: #d69a2d;
+  z-index: 1;
+}
+.frame-1-LbJ .rectangle-7-TUC {
+  width: 50rem;
+  height: 30rem;
+  position: absolute;
+  left: 10rem;
+  top: 50rem;
+  background-color: #d69a2d;
+}
+.frame-1-LbJ .item-99-Cgg {
+  width: 7.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 25%;
+  top: 7.6rem;
+  text-align: center;
+  font-size: 5.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .testimonial2 {
+  width: 30rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 10%;
+  top: 55%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #041e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-LbJ .testimonial2 .testimonial2_1{
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #041e42;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .testimonial2 .testimonial2_2 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .rectangle-6-1vx {
+  width: 35.4rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 78.4rem;
+  top: 29.3rem;
+  background-color: #000000;
+  border-radius: 0.5rem;
+}
+.frame-1-LbJ .testimonials-wJp {
+  width: 18.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 82.55rem;
+  top: 31.9rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ba0c2f;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-LbJ .im-incredibly-grateful-for-the-scholarship-opportunities-in-mississippi-theyve-empowered-me-to-pursue-my-dreams-and-break-barriers-changing-my-life-for-the-better-katy-louis-quz {
+  width: 30rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 73%;
+  top: 53%;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #041e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-LbJ .im-incredibly-grateful-for-the-scholarship-opportunities-in-mississippi-theyve-empowered-me-to-pursue-my-dreams-and-break-barriers-changing-my-life-for-the-better-katy-louis-quz .im-incredibly-grateful-for-the-scholarship-opportunities-in-mississippi-theyve-empowered-me-to-pursue-my-dreams-and-break-barriers-changing-my-life-for-the-better-katy-louis-quz-sub-0 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #041e42;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.frame-1-LbJ .im-incredibly-grateful-for-the-scholarship-opportunities-in-mississippi-theyve-empowered-me-to-pursue-my-dreams-and-break-barriers-changing-my-life-for-the-better-katy-louis-quz .im-incredibly-grateful-for-the-scholarship-opportunities-in-mississippi-theyve-empowered-me-to-pursue-my-dreams-and-break-barriers-changing-my-life-for-the-better-katy-louis-quz-sub-1 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5454545455;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
